@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Senior iOS Developer",
+    "company": "Google",
+    "location": "Remote",
+    "salary": "$120,000 - $150,000",
+    "description": "Build and maintain high-quality iOS applications using Swift and UIKit."
+  },
+  {
+    "id": 2,
+    "title": "iOS Engineer",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "salary": "$140,000 - $180,000",
+    "description": "Develop innovative mobile experiences for Apple users worldwide."
+  },
+  {
+    "id": 3,
+    "title": "Mobile Application Developer",
+    "company": "Amazon",
+    "location": "Seattle, WA",
+    "salary": "$110,000 - $145,000",
+    "description": "Create scalable mobile applications and collaborate with cross-functional teams."
+  },
+  {
+    "id": 4,
+    "title": "Senior Software Engineer - iOS",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "salary": "$130,000 - $165,000",
+    "description": "Design and implement enterprise-grade iOS applications."
+  },
+  {
+    "id": 5,
+    "title": "iOS Developer",
+    "company": "Meta",
+    "location": "Menlo Park, CA",
+    "salary": "$135,000 - $170,000",
+    "description": "Develop engaging mobile experiences for social media platforms."
+  },
+  {
+    "id": 6,
+    "title": "Lead iOS Engineer",
+    "company": "Netflix",
+    "location": "Los Gatos, CA",
+    "salary": "$150,000 - $200,000",
+    "description": "Lead development efforts for streaming and entertainment applications."
+  },
+  {
+    "id": 7,
+    "title": "Junior iOS Developer",
+    "company": "Spotify",
+    "location": "Stockholm, Sweden",
+    "salary": "$70,000 - $95,000",
+    "description": "Assist in developing music streaming features and improving app performance."
+  },
+  {
+    "id": 8,
+    "title": "Mobile Engineer",
+    "company": "Airbnb",
+    "location": "San Francisco, CA",
+    "salary": "$115,000 - $150,000",
+    "description": "Build user-friendly travel booking experiences on iOS."
+  },
+  {
+    "id": 9,
+    "title": "iOS Software Engineer",
+    "company": "Uber",
+    "location": "New York, NY",
+    "salary": "$125,000 - $155,000",
+    "description": "Develop transportation and logistics-related mobile applications."
+  },
+  {
+    "id": 10,
+    "title": "Senior Mobile Developer",
+    "company": "LinkedIn",
+    "location": "Sunnyvale, CA",
+    "salary": "$135,000 - $175,000",
+    "description": "Create professional networking features and optimize user engagement."
+  },
+  {
+    "id": 11,
+    "title": "iOS Architect",
+    "company": "Salesforce",
+    "location": "Remote",
+    "salary": "$160,000 - $220,000",
+    "description": "Define technical architecture and best practices for mobile solutions."
+  },
+  {
+    "id": 12,
+    "title": "Swift Developer",
+    "company": "Adobe",
+    "location": "San Jose, CA",
+    "salary": "$120,000 - $160,000",
+    "description": "Build creative tools and enhance productivity applications for iOS."
+  },
+  {
+    "id": 13,
+    "title": "Mobile App Engineer",
+    "company": "PayPal",
+    "location": "Austin, TX",
+    "salary": "$115,000 - $145,000",
+    "description": "Develop secure payment experiences and improve transaction flows."
+  },
+  {
+    "id": 14,
+    "title": "Senior iOS Consultant",
+    "company": "Accenture",
+    "location": "Chicago, IL",
+    "salary": "$125,000 - $155,000",
+    "description": "Deliver mobile solutions for enterprise clients and digital transformation projects."
+  },
+  {
+    "id": 15,
+    "title": "Principal iOS Engineer",
+    "company": "Dropbox",
+    "location": "Remote",
+    "salary": "$170,000 - $240,000",
+    "description": "Lead strategic mobile initiatives and mentor engineering teams."
+  }
+]
