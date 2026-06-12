@@ -193,5 +193,19 @@ final class JobListViewModelTests: XCTestCase {
         )
     }
     
+    func testSearchResultTriggersLoadedState() async {
+
+        await viewModel.fetchJobs()
+
+        var state: ViewState?
+
+        viewModel.onStateChange = {
+            state = $0
+        }
+
+        viewModel.search(text: "Apple")
+
+        XCTAssertEqual(state, .loaded)
+    }
     
 }
