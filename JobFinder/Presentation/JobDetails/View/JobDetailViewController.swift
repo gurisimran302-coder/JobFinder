@@ -34,7 +34,7 @@ UIViewController {
         view.backgroundColor =
             .systemBackground
 
-        title = "Job Detail"
+        title = AppConstants.NavigationTitles.jobDetail
 
         setupUI()
     }
