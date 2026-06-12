@@ -3,6 +3,12 @@
 
 JobFinder is a production-ready iOS application built using UIKit, MVVM architecture, Dependency Injection, and Async/Await. The application allows users to browse available jobs, search jobs by title or company, and view detailed job information.
 
+## Screenshots
+
+| Job List | Job Detail |
+|----------|------------|
+| ![Job List](Screenshots/JobList.png) | ![Job Detail](Screenshots/JobDetail.png) |
+
 ## Features
 
 * Browse available jobs
